@@ -1,0 +1,9 @@
+#python
+#cv2
+#pillow
+#image
+#scikit-image
+#tkinter
+#numpy
+#matplotlib
+#inotify
