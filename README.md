@@ -1,4 +1,4 @@
-# SensUs_2021_Code
+## SensUs competition 2021 image acquisition&processing code
 
 * `/images`: put the images to be analysed in this folder 
 * `/images_processed`: where the processed images will be saved
